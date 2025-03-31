@@ -3,7 +3,7 @@
 Ce projet est un site publicitaire présentant nos savoir-faire en développement web. Il est hébergé avec **GitHub Pages**.  
 
 ## 🔗 Accès au site  
-🔗 [Mon site en ligne](https://ton-utilisateur.github.io/nom-du-repo/)  
+🔗 [Mon site en ligne](https://choubebebakon.github.io/BMAdeveloppementweb/)  
 
 ## 📂 Structure du projet  
 - **index.html** : Page principale du site  
